@@ -9,6 +9,10 @@
 	height:300px;
 }
 
+p{
+	font-size: 14pt;
+}
+
 *{
 	box-sizing: border-box;
 }
