@@ -4,6 +4,11 @@
 	padding: 10%;
 }
 
+.photo{
+	width:350px;
+	height:300px;
+}
+
 *{
 	box-sizing: border-box;
 }
